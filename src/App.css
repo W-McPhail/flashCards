@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.header {
+  position: relative;
+  top: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.Card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid rgb(255, 255, 255);
+  color: aqua;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(255, 255, 255, 0.26);
+}
